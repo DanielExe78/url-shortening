@@ -659,8 +659,12 @@ a:active {
     bottom: -10rem;
   }
 
-  .text-container {
-    margin-top: 20rem;
+   .text-container {
+    margin-top: 6.8rem;
+  }
+
+  .links-container {
+    margin-top: 12rem;
   }
 }
 
